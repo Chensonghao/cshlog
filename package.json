@@ -1,0 +1,24 @@
+{
+  "name": "cshlog",
+  "version": "1.0.2",
+  "description": "log module for nodejs",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chensonghao/cshlog.git"
+  },
+  "author": {
+    "name": "chensonghao",
+    "email": "csh11122@sina.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chensonghao/cshlog/issues"
+  },
+  "homepage": "https://github.com/chensonghao/cshlog#readme",
+  "dependencies": {
+      "bluebird": "^3.4.6"
+  }
+}
